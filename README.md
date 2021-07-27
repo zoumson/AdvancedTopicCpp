@@ -1,4 +1,4 @@
-# AdvancedTopicCpp
+# Advanced Topic Cpp
 1. Classes and Objects
 * Definning a class
 * Data members
